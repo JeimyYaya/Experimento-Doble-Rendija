@@ -1,4 +1,7 @@
 # Experimento DobleRendija
+## Integrantes
+Julian Cardenas
+Jeimy Yaya
 ## Montaje
 #### Materiales:
 -Cartón paja  
