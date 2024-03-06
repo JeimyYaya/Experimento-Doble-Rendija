@@ -16,4 +16,4 @@ Al pasar a traves de cualquiera de las dos, deberian verse dos rayos sobre la pa
 # Simulación en computo
 Calcularemos la probabilidad de que el electrón este en cierta posición después de cada click
 
-
+![doblerendija](https://github.com/JeimyYaya/Experimento-Doble-Rendija/blob/a66abde0b6dc916cfd0c4ebe2347fefaf07807a9/imagen_2024-03-05_234851113.png)
