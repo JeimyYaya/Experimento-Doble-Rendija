@@ -11,5 +11,6 @@ Principalmente se creó la doble rendija, para esto se realizaron dos cortes a u
 El haz de luz del láser pasa a travez de la rendija, los fotones tienen la misma probabilidad misma probabilidad de pasar por cada rendija, pero no pueden pasar a traves de ellas al mismo tiempo.
 Al pasar a traves de cualquiera de las dos, deberian verse dos rayos sobre la pared, sin embargo vemos situadas varias lineas, donde el centro brilla más. Este puede ser explicado por la fisica cuantica, una teoria nos dice que existe un elemento que afecta al electrón y así cambia su trayectoria, es decir, existe una historia diferente donde ocurre este elcetron. Esta teoria abre la posibilidad de hablar sobre un multiverso, donde cada estado del sistema puede tener diferentes historias y estas historias interactuan entre si.
 
+![imagen](WhatsApp Image 2024-03-04 at 1.53.06 PM.jpeg)
 
 
