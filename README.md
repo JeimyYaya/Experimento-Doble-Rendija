@@ -13,7 +13,7 @@ Al pasar a traves de cualquiera de las dos, deberian verse dos rayos sobre la pa
 
 ![WhatsApp Image 2024-03-04 at 1.53.06 PM.jpeg](https://github.com/JeimyYaya/Experimento-Doble-Rendija/blob/7483d6d0a7eaf204f170d7d9771eae290198302f/WhatsApp%20Image%202024-03-04%20at%201.53.06%20PM.jpeg)
 
-#Simulación en computo
+# Simulación en computo
 Calcularemos la probabilidad de que el electrón este en cierta posición después de cada click
 
 
