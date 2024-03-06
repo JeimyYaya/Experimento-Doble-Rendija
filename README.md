@@ -9,6 +9,9 @@ Jeimy Yaya
 -Papel aluminio  
 
 Principalmente se creó la doble rendija, para esto se realizaron dos cortes a un milimetro de distancia sobre el papel aluminio. Posteriormente se colocó de manera perpendicular la doble rendija y finalmente se posicionó el laser en la base de carton paja.
+![rendijas](https://github.com/JeimyYaya/Experimento-Doble-Rendija/blob/e049589bf98b6d3e8811b91751cda27ec556ded7/WhatsApp%20Image%202024-03-06%20at%2010.35.46%20AM.jpeg)
+![carton](https://github.com/JeimyYaya/Experimento-Doble-Rendija/blob/e049589bf98b6d3e8811b91751cda27ec556ded7/WhatsApp%20Image%202024-03-06%20at%2010.35.49%20AM.jpeg)
+![laser](https://github.com/JeimyYaya/Experimento-Doble-Rendija/blob/e049589bf98b6d3e8811b91751cda27ec556ded7/WhatsApp%20Image%202024-03-06%20at%2010.35.42%20AM.jpeg)
 
 ## Explicación:
 El haz de luz del láser pasa a travez de la rendija, los fotones tienen la misma probabilidad misma probabilidad de pasar por cada rendija, pero no pueden pasar a traves de ellas al mismo tiempo.
