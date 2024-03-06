@@ -1,9 +1,9 @@
 # Experimento DobleRendija
 ## Montaje
 #### Materiales:
--Cartón paja
--Láser
--Papel aluminio
+-Cartón paja  
+-Láser  
+-Papel aluminio  
 
 Principalmente se creó la doble rendija, para esto se realizaron dos cortes a un milimetro de distancia sobre el papel aluminio. Posteriormente se colocó de manera perpendicular la doble rendija y finalmente se posicionó el laser en la base de carton paja.
 
