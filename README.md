@@ -1,6 +1,6 @@
 # Experimento DobleRendija
 ## Integrantes
-Julian Cardenas
+Julian Cardenas  
 Jeimy Yaya
 ## Montaje
 #### Materiales:
